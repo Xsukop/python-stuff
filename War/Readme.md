@@ -1,0 +1,3 @@
+Tento projekt ukazuje moje spracovanie kartovej hry war, kde dvaja hráči dostanú 26 kariet(z 52), a následne dávajú pred seba jednotlivé karty. Ak jeden hráč má vyššie číslo na karte, berie si svoju späť a aj súperovu ku sebe. Ak majú obaja rovnakú hodnotu karty, prichádza časť hry war, kde hráči vyložia ďalšie karty a posledná vyššia, tak ten hráč berie všetky. Princíp hry je zobrať takto súperovi všetky karty. 
+////
+Na tomto projekte som pracoval asi 2-3 hodiny s občasnými prestávkami
